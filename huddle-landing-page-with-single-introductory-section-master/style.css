@@ -1,4 +1,16 @@
+:root {
+    --magenta-color: hsl(300, 69%, 71%);
+    --violet-color: hsl(257, 40%, 49%);
+}
+
 body {
-    background-image: url('images/bg-desktop.svg');
-    background-size: cover;
+    background-image: url(images/bg-desktop.svg);
+    background-color: var(--violet-color);
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+header {
+    margin-left: 50px;
+    margin-top: 50px;
 }
