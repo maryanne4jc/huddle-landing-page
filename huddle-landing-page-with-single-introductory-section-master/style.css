@@ -3,11 +3,6 @@
     --violet-color: hsl(257, 40%, 49%);
 }
 
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  } */
 
 body {
     background-image: url(images/bg-desktop.svg);
@@ -36,12 +31,9 @@ body {
     gap: 20px;
     padding: 0 30px;
     width: 100%;
-    /* margin-top: 40px; */
-    /* margin-left: 30px; */
 }
 
 .image-container {
-    /* flex: 0 0 auto; */
     width: 50%;
 }
 
@@ -77,14 +69,6 @@ body {
 
 .social-icons {
     display: flex;
-    /* position: absolute;
-    bottom: 0;
-    right: 0; */
-    /* margin-bottom: 30px;
-    margin-right: 100px; */
-    /* float: right; */
-    /* margin-top: 140px; */
-    /* padding-left: 60px; */
     width: 100%;
     justify-content: center;
 }
