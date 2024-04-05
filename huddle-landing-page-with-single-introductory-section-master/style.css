@@ -120,6 +120,7 @@ body {
         padding: 0 30px;
         margin-top: 40px; */
         margin-left: 0;
+        width: 80%;
     }
 
     .image-container {
@@ -148,10 +149,13 @@ body {
         width: 100%;
         flex-wrap: wrap;
         /* height: -10px; */
+        margin-bottom: 30px;
     }
 
     .text-container button {
-        margin-bottom: 0;
+        margin-bottom: 40px;
+        width: 70%;
+        align-items: center;
     }
 
     
