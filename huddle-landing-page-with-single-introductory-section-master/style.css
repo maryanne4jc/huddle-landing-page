@@ -107,7 +107,7 @@ body {
     .logo img {
         width: 120px;
         height: 45px;
-        padding-left: 10px;
+        padding-left: 20px;
         padding-top: 20px;
     }
 
@@ -116,10 +116,6 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        /* gap: 20px;
-        padding: 0 30px;
-        margin-top: 40px; */
-        margin-left: 0;
         width: 80%;
     }
 
@@ -148,7 +144,6 @@ body {
         align-items: center;
         width: 100%;
         flex-wrap: wrap;
-        /* height: -10px; */
         margin-bottom: 30px;
     }
 
